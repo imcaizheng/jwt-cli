@@ -47,7 +47,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhIjoxLCJpYXQiOjE1MjczMTI3NTIsImV4cCI6MTU
 
 | Option         | Description                              |
 | -------------- | ---------------------------------------- |
-| `-n, --noCopy` | Do not copy the token to your clipboard. |
+| `-n, --noCopy` | Do not copy the token to the clipboard. |
 
 ### `verify [options] token secret`
 
@@ -81,7 +81,7 @@ copied to clipboard:
 
 | Option         | Description                                |
 | -------------- | ------------------------------------------ |
-| `-n, --noCopy` | Do not copy the payload to your clipboard. |
+| `-n, --noCopy` | Do not copy the payload to the clipboard. |
 
 ## Related
 
